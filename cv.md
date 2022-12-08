@@ -1,8 +1,8 @@
-#Natallia Baitsova
+# Natallia Baitsova
 
 ---
 
-##My Contacts
+## My Contacts
 
 **Phonenumber** +(375)29-624-98-51
 **Email** *natalysheadache@gmail.com*
@@ -11,12 +11,13 @@
 
 ---
 
-##About me
+## About me
+
 Learn Front-End Development course in RSSchool
 
 ---
 
-##Skills
+## Skills
 
 - JavaScript Basics
 - HTML Basics
@@ -24,7 +25,7 @@ Learn Front-End Development course in RSSchool
 
 ---
 
-##Code Example
+## Code Example
 
 Function that checks if number is odd (true if odd, false if even)
 
@@ -38,7 +39,7 @@ return true;
 
 ---
 
-##Courses
+## Courses
 
 - w3schools (HTML and CSS Tutorialse)
 - FreeCodeCamp
@@ -47,7 +48,7 @@ return true;
 
 ---
 
-##Languages
+## Languages
 
 - English (B2)
 - Russian (native)
