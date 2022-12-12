@@ -1,1 +1,1 @@
-# rsschool-cv
+https://BupikNat.github.io/rsschool-cv/
